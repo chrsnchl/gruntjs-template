@@ -1,4 +1,4 @@
 /*
- grunt-getting-started 2016-08-27 
+ grunt-getting-started 2016-08-31 
 */
-console.log("THE BARCLAY OPEN");
+console.log("THE U....S... OPEN");

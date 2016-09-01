@@ -1,1 +1,1 @@
-console.log('THE BARCLAY OPEN');
+console.log('THE U....S... OPEN');

@@ -1,1 +1,1 @@
-console.log("do some mega super magic");
+console.log("do some of the awesome magic");
